@@ -1,3 +1,6 @@
-Flask
-gunicorn
-fpdf
+firebase-admin
+python-firebase
+fastapi
+openai
+uvicorn
+python-dotenv
